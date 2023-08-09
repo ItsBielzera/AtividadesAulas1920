@@ -5,7 +5,7 @@ let soma = num1 + num2
 let mult = num1 * num2
 
 alert (soma)
-console.log(texto)
+console.log(nome)
 console.log(mult)
 
 function subtracao(num1, num2) {
